@@ -2,6 +2,7 @@
 #yellow{
     background: yellow;
     border-width: 1px;
+	border-top-style: solid;
     border-color: green;
 
 }
@@ -14,7 +15,7 @@
     background: green;
     border-width: 1px;
 /* 	border-top:solid: */
-	    border-top-style: solid;
+/* 	 border-top-style: solid; */
     border-color: yellow;
 
 }
