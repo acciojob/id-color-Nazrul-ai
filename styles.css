@@ -1,32 +1,34 @@
 /*  your css code here. If applicable */
-/* 
+
 #yellow{
-    background: yellow;
+    background-color: yellow;
     border-width: 1px;
-	border-top-style: solid;
+	border-color: green;
+/* 	border-top-style: solid;
     border-color: green;
 	border-left-style:solid;
 		border-right-style:solid;
 	
-	border-bottom-style:solid;
+	border-bottom-style:solid; */
 
 }
 #red{
-    background: red;
+    background-color: red;
     border-width: 1px;
     border-color: black;
 }
 #green{
-    background: green;
+    background-color: green;
     border-width: 1px;
+	 border-color: yellow;
 /* 	border-top:solid: */
 /* 	 border-top-style: solid; */
-/*     border-color: yellow; */
+/*     border-color: yellow;
 
 /* } */
 /*  */ 
 
-#yellow {
+/* #yellow {
             background-color: yellow;
             border: 1px solid green;
         }
@@ -39,4 +41,4 @@
         #green {
             background-color: green;
             border: 1px solid yellow;
-        }
+        } */
