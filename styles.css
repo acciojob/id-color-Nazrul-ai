@@ -14,7 +14,7 @@
     background: green;
     border-width: 1px;
 /* 	border-top:solid: */
-	    border-top: solid;
+	    border-top-style: solid;
     border-color: yellow;
 
 }
