@@ -2,8 +2,9 @@
 
 #yellow{
     background-color: yellow;
-    border-width: 1px;
-	border-color: green;
+	border:1px solid green;
+/*     border-width: 1px;
+	border-color: green; */
 /* 	border-top-style: solid;
     border-color: green;
 	border-left-style:solid;
@@ -14,13 +15,15 @@
 }
 #red{
     background-color: red;
-    border-width: 1px;
-    border-color: black;
+	border:1px solid black;
+/*     border-width: 1px;
+    border-color: black; */
 }
 #green{
     background-color: green;
-    border-width: 1px;
-	 border-color: yellow;
+	border:1px solid yellow;
+/*     border-width: 1px;
+	 border-color: yellow; */
 /* 	border-top:solid: */
 /* 	 border-top-style: solid; */
 /*     border-color: yellow;
